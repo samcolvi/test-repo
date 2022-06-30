@@ -6,4 +6,4 @@ These are further changes to be pulled to the local repository.
 
 Changes to illustrate the use of Git diff.
 
-Changes made on the test_branch branch
+These are changes made for the merge example.
