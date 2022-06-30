@@ -5,3 +5,5 @@ Further changes to the file for a second commit before saving to GitHub.
 These are further changes to be pulled to the local repository. 
 
 Changes to illustrate the use of Git diff.
+
+These are changes made for the merge example.
