@@ -9,3 +9,4 @@ Changes to illustrate the use of Git diff.
 
 These are further changes to be pulled to the local repository. 
 
+Changes to illustrate the use of Git diff.
