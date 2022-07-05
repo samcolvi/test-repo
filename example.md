@@ -4,4 +4,4 @@ Further changes to the file for a second commit before saving to GitHub.
 
 These are further changes to be pulled to the local repository. 
 
-Changes made on the test-branch branch
+Changes to illustrate the use of Git diff.
